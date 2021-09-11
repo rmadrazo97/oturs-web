@@ -1,0 +1,1226 @@
+# Translation of Plugins - Loginizer - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Loginizer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-28 05:17:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Loginizer - Stable (latest release)\n"
+
+#: init.php:2527
+msgid "Line no."
+msgstr "Línea nº."
+
+#: init.php:2489
+msgid "No data to export"
+msgstr "No hay datos para exportar"
+
+#: init.php:2335
+msgid "Import Whitelist IPs (CSV)"
+msgstr "Importar la lista de IP permitidas (CSV)"
+
+#: init.php:2245 init.php:2349
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+#: init.php:2244 init.php:2348
+msgid "Import CSV"
+msgstr "Importar CSV"
+
+#: init.php:2234 init.php:2338
+msgid "Submit"
+msgstr "Enviar"
+
+#: init.php:2231
+msgid "Import Blacklist IPs (CSV)"
+msgstr "Importar la lista de IP no permitidas (CSV)"
+
+#: init.php:2053
+msgid "Blacklist Selected IPs"
+msgstr "No permitir las IP seleccionadas"
+
+#: init.php:1853
+msgid "No IP(s) selected"
+msgstr "Ninguna IP seleccionada"
+
+#: init.php:1846
+msgid "The selected IP(s) have been blacklisted"
+msgstr "Las IP seleccionadas han sido añadidas a la lista de no permitidas"
+
+#: init.php:1791
+msgid "Imported "
+msgstr "Importado "
+
+#: init.php:1743
+msgid "Invalid import type"
+msgstr "Tipo de importación no válido"
+
+#: init.php:3886
+msgid "Send email as HTML"
+msgstr "Enviar correo electrónico como HTML"
+
+#: init.php:3710
+msgid "No Whitelist IPs for Two Factor Authentication. You will see whitelisted IP ranges here."
+msgstr "No hay IP en la lista blanca de autenticación de dos factores. Aquí verás los rangos de IP en la lista blanca."
+
+#: init.php:3693
+msgid "Delete All Whitelist IP Range(s) for 2FA"
+msgstr "Borrar todos los rangos de IP de la lista blanca de autenticación de dos factores"
+
+#: init.php:3693
+msgid "Are you sure you want to delete all Whitelist IP Range(s) for 2FA ?"
+msgstr "¿Estás seguro de que quieres borrar todos los rangos de IP de la lista blanca de autenticación de dos factores?"
+
+#: init.php:3675
+msgid "Enter the IP you want to whitelist for two factor authentication"
+msgstr "Añade la IP que deseas añadir a la lista blanca de autenticación de dos factores"
+
+#: init.php:3669
+msgid "Disable Two Factor Authentication for IP"
+msgstr "Desactivar la autenticación de dos factores para una IP dada"
+
+#: init.php:3284
+msgid "Whitelist IP range for Two Factor Authentication added successfully"
+msgstr "El rango de IP de la lista blanca para la autenticación de dos factores se ha añadido con éxito"
+
+#: init.php:3562
+msgid "Save Messages"
+msgstr "Guardar mensajes"
+
+#: init.php:3553
+msgid "Title for Security Answer"
+msgstr "Título para la respuesta de seguridad"
+
+#: init.php:3543
+msgid "Title for Security Question"
+msgstr "Título para la pregunta de seguridad"
+
+#: init.php:3533
+msgid "Title for OTP field"
+msgstr "Título para el campo de OTP"
+
+#: init.php:3513
+msgid "OTP via APP"
+msgstr "OTP por aplicación móvil"
+
+#: init.php:3508
+msgid "If you do not make changes below the default messages will be used !"
+msgstr "¡Si no haces ningún cambio abajo, se utilizarán los mensajes por defecto!"
+
+#: init.php:3507
+msgid "Customize the title for OTP field displayed to the user on the login form."
+msgstr "Personaliza el título del campo de OTP que se muestra al usuario en el formulario de acceso."
+
+#: init.php:3496
+msgid "Custom Messages for OTP"
+msgstr "Mensajes personalizados de OTP"
+
+#: init.php:3452
+msgid "If you do not make changes below the default email template will be used !"
+msgstr "¡Si no haces ningún cambio abajo, se utilizará la plantilla de correo electrónico por defecto!"
+
+#: init.php:3451
+msgid "Customize the email template to be used when sending the OTP to login via Email for 2FA."
+msgstr "Personaliza la plantilla de correo electrónico que se utilizará cuando se envíe la contraseña de un solo uso para acceder mediante correo de autenticación de dos factores."
+
+#: init.php:3440
+msgid "OTP via Email Template"
+msgstr "Plantilla de OTP por correo electrónico"
+
+#: init.php:3179
+msgid "Messages were saved successfully"
+msgstr "Los mensajes se guardaron con éxito"
+
+#: init.php:252
+msgid "Your Answer"
+msgstr "Tu respuesta"
+
+#: init.php:251
+msgid "Please answer your security question"
+msgstr "Por favor, responde a tu pregunta de seguridad"
+
+#: init.php:250
+msgid "One Time Password"
+msgstr "Contraseña de un solo uso"
+
+#: init.php:249
+msgid "Please enter the OTP emailed to you"
+msgstr "Por favor, introduce la contraseña que has recibido por correo"
+
+#: init.php:248
+msgid "Please enter the OTP as seen in your App"
+msgstr "Por favor, introduce la contraseña tal como aparece en la aplicación"
+
+#: init.php:2443
+msgid "Hours"
+msgstr "Horas"
+
+#: init.php:2436
+msgid "Minutes"
+msgstr "Minutos"
+
+#: init.php:237
+msgid "hour(s)"
+msgstr "hora(s)"
+
+#: init.php:236
+msgid "minute(s)"
+msgstr "minuto(s)"
+
+#: init.php:4939
+msgid "Remove Selected from Ignore List"
+msgstr "Quitar seleccionados de la lista de ignorados"
+
+#: init.php:4932
+msgid "No files have been added to the ignore list"
+msgstr "No se ha añadido ningún archivo a la lista de ignorados"
+
+#: init.php:4890
+msgid "Ignore List"
+msgstr "Lista de ignorados"
+
+#: init.php:4879
+msgid "Add Selected to Ignore List"
+msgstr "Añadir seleccionados a la lista de ignorados"
+
+#: init.php:4872
+msgid "This is great ! No file with any wrong checksum has been found."
+msgstr "¡Genial! No se ha encontrado ningún archivo con una suma de verificación incorrecta."
+
+#: init.php:4850 init.php:4907
+msgid "Should be"
+msgstr "Debería ser"
+
+#: init.php:4849 init.php:4906
+msgid "Found"
+msgstr "Encontrado"
+
+#: init.php:4824
+msgid "Mismatching Files"
+msgstr "Archivos erróneos"
+
+#: init.php:4814
+msgid "Do a Checksum Now"
+msgstr "Hacer una suma de comprobación ahora"
+
+#: init.php:4790
+msgid "If Checksum is enabled, what time of day should Loginizer do the check. Note : The check will be done on or after this time has elapsed as per the accesses being made."
+msgstr "A qué hora Loginizer debe hacer la comprobación si se activa la suma de verificación. Aviso: La comprobación se hará después de esta hora según vaya habiendo accesos."
+
+#: init.php:4789
+msgid "Time of Day"
+msgstr "Hora del día"
+
+#: init.php:4775
+msgid "If Checksum is enabled, at what frequency should the checksums be performed."
+msgstr "Con qué frecuencia debe realizarse la comprobación si se activa la suma de verificación."
+
+#: init.php:4774
+msgid "Checksum Frequency"
+msgstr "Frecuencia de suma de verificación"
+
+#: init.php:4766
+msgid "If checked, Loginizer will not email you the checksum results."
+msgstr "Si se marca, Loginizer no te enviará por correo electrónico los resultados de la suma de verificación."
+
+#: init.php:4765
+msgid "Disable Email of Checksum Results"
+msgstr "Desactivar el correo electrónico de los resultados de la suma de verificación"
+
+#: init.php:4757 init.php:4810
+msgid "If disabled, Loginizer will not check your sites core files against the WordPress checksum list."
+msgstr "Si se desactiva, Loginizer no comprobará los archivos del núcleo de tu sitio con la lista de suma de verificación de WordPress."
+
+#: init.php:4756
+msgid "Disable Checksum of WP Core"
+msgstr "Desactivar la suma de verificación del núcleo de WordPress"
+
+#: init.php:4746
+msgid "Checksum Settings"
+msgstr "Ajustes de suma de verificación (checksum)"
+
+#: init.php:4708
+msgid "The Checksum process was executed successfully"
+msgstr "El proceso de suma de verificación se ha ejecutado correctamente"
+
+#: init.php:4623
+msgid "Once a Month"
+msgstr "Una vez al mes"
+
+#: init.php:4622
+msgid "Once a Week"
+msgstr "Una vez a la semana"
+
+#: init.php:4621
+msgid "Once a Day"
+msgstr "Una vez al día"
+
+#: init.php:4558
+msgid "Save Domains(s)"
+msgstr "Guardar dominio(s)"
+
+#: init.php:4554
+msgid "Add New Domain"
+msgstr "Añadir un nuevo dominio"
+
+#: init.php:4534
+msgid "Domain(s)"
+msgstr "Domino(s)"
+
+#: init.php:4519
+msgid "New Registration Domain Blacklist"
+msgstr "Lista negra de dominios para registro"
+
+#: init.php:4500
+msgid "Save Username(s)"
+msgstr "Guardar nombre(s) de usuario"
+
+#: init.php:4496
+msgid "Add New Username"
+msgstr "Añadir un nuevo nombre de usuario"
+
+#: init.php:4477 init.php:4535
+msgid "You can use - <b>*</b> (Star)- as a wild card as well. Blank fields will be ignored"
+msgstr "También puedes usar — <b>*</b> (asterisco)— como comodín. Se ignorarán los campos en blanco"
+
+#: init.php:4476
+msgid "Username(s)"
+msgstr "Nombre(s) de usuario"
+
+#: init.php:4471
+msgid "Attackers generally use common usernames like <b>admin, administrator, or variations of your domain name / business name</b>. You can specify such username here and Loginizer will auto-blacklist the IP Address(s) of clients who try to use such username(s)."
+msgstr "Los atacantes suelen usar nombres de usuario comunes como <b>admin, administrator o variaciones de tu dominio o del nombre de tu empresa</b>. Puedes especificar aquí esos nombres de usuario para que Loginizer añada automáticamente a la lista negra la(s) dirección(es) IP de los clientes que intenten usarlos."
+
+#: init.php:4461
+msgid "Username Auto Blacklist"
+msgstr "Lista negra automática de nombres de usuario"
+
+#: init.php:4437
+msgid "Set the Username"
+msgstr "Establecer el nombre de usuario"
+
+#: init.php:4436
+msgid "Note: Username can be changed only for administrator users."
+msgstr "Nota: Solo se puede cambiar el nombre de los usuarios que sean administradores."
+
+#: init.php:4429
+msgid "The new username you want to set"
+msgstr "El nuevo nombre de usuario que quieres usar"
+
+#: init.php:4428
+msgid "New Username"
+msgstr "Nuevo nombre de usuario"
+
+#: init.php:4420
+msgid "The current username you want to change"
+msgstr "El usuario actual que quieres cambiar"
+
+#: init.php:4419
+msgid "Current Username"
+msgstr "Nombre de usuario actual"
+
+#: init.php:4414
+msgid "You can change the Admin Username from here to anything of your choice e.g. iamtheboss. This would make it very difficult for automated attack bots to know what is the admin username !"
+msgstr "Desde aquí puedes cambiar el nombre de usuario del administrador por otro de tu preferencia, p. ej., soyelamo. ¡Esto dificultará mucho que los bots automatizados de ataque sepan cuál es el nombre de usuario del administrador!"
+
+#: init.php:4404
+msgid "Change Admin Username"
+msgstr "Cambiar el nombre de usuario del administrador"
+
+#: init.php:4372
+msgid "Test New WP-Admin Slug"
+msgstr "Probar el nuevo slug de WP-Admin"
+
+#: init.php:4368
+msgid "You need to confirm that you have configured .htaccess as per <a href=\""
+msgstr "Debes confirmar que has configurado el .htaccess según <a href=\""
+
+#: init.php:4367
+msgid "I have setup .htaccess"
+msgstr "He configurado el .htaccess"
+
+#: init.php:4359
+msgid "Error message to show if someone accesses wp-admin"
+msgstr "Mensaje de error que mostrar a quien acceda a wp-admin"
+
+#: init.php:4358
+msgid "WP-Admin Error Message"
+msgstr "Mensaje de error de wp-admin"
+
+#: init.php:4350
+msgid "If set, then only the new admin slug will work and access to the Old Admin Slug i.e. wp-admin will be disabled. If anyone accesses wp-admin, a warning will be shown.<br><label>NOTE: Please use this option cautiously !</label>"
+msgstr "Si está establecido, solo funcionará el nuevo slug del administrador; el acceso al antiguo slug del administrador, es decir, wp-admin, se desactivará. Si alguien accede a wp-admin, se mostrará una advertencia.<br><label>NOTA: ¡Usa esta opción con cautela!</label>"
+
+#: init.php:4349
+msgid "Disable wp-admin access"
+msgstr "Desactivar el acceso a wp-admin"
+
+#: init.php:4341
+msgid "Set blank to reset to the original wp-admin URL"
+msgstr "Déjalo en blanco para restablecer la URL original de wp-admin"
+
+#: init.php:4340
+msgid "New wp-admin Slug"
+msgstr "Nuevo slug de wp-admin"
+
+#: init.php:4328
+msgid "Rename wp-admin access feature is supported only on Apache and Litespeed"
+msgstr "La característica de renombrar el acceso a wp-admin es compatible solo con Apache y Litespeed"
+
+#: init.php:4314
+msgid "Rename wp-admin access"
+msgstr "Renombrar el acceso a wp-admin"
+
+#: init.php:4301
+msgid "There was an error connecting to WordPress with the new Admin Slug. Did you configure everything properly ?"
+msgstr "Hubo un error al conectarse a WordPress con el nuevo slug de administración. ¿Lo configuraste todo correctamente?"
+
+#: init.php:4296
+msgid "Everything seems to be good. You can proceed to save the settings !"
+msgstr "Todo parece estar bien. ¡Puedes proceder a guardar la configuración!"
+
+#: init.php:4250
+msgid "Set blank to reset to the original XML-RPC URL"
+msgstr "Déjalo en blanco para restablecer la URL original de XML-RPC"
+
+#: init.php:4249
+msgid "New XML-RPC Slug"
+msgstr "Nuevo slug de XML-RPC"
+
+#: init.php:4241
+msgid "Disable Pingbacks"
+msgstr "Desactivar los pingbacks"
+
+#: init.php:4233
+msgid "Disable XML-RPC"
+msgstr "Desactivar XML-RPC"
+
+#: init.php:4228
+msgid "WordPress's XML-RPC feature allows external services to access and modify content on the site. Services like the Jetpack plugin, the WordPress mobile app, pingbacks, etc make use of the XML-RPC feature. If this site does not use a service that requires XML-RPC, please <b>disable</b> the XML-RPC feature as it prevents attackers from using the feature to attack the site. If your service can use a custom XML-RPC URL, you can also <b>rename</b> the XML-RPC page to a <b>custom slug</b>."
+msgstr "La característica XML-RPC de WordPress permite que los servicios externos accedan y modifiquen el contenido del sitio. Los servicios como el plugin Jetpack, la aplicación móvil de WordPress, los pingbacks, etc., usan la característica XML-RPC. Si este sitio no utiliza un servicio que requiera XML-RPC, <b>desactiva</b> la característica XML-RPC ya que así se evita que los atacantes la utilicen para atacar el sitio. Si tu servicio puede usar una URL personalizada para XML-RPC, también puedes <b>cambiar el nombre</b> de la página XML-RPC a un <b>slug personalizado</b>."
+
+#: init.php:4218
+msgid "XML-RPC Settings"
+msgstr "Ajustes de XML-RPC"
+
+#: init.php:4189
+msgid "If set, then all Login URL's will still point to "
+msgstr "Si está establecido, todas las URL de acceso seguirán apuntando a"
+
+#: init.php:4188
+msgid "Access Secretly Only"
+msgstr "Solo acceso secreto"
+
+#: init.php:4174
+msgid "Set blank to reset to the original login URL"
+msgstr "Déjalo en blanco para restablecer la URL de acceso original"
+
+#: init.php:4173
+msgid "New Login Slug"
+msgstr "Nuevo slug de acceso"
+
+#: init.php:4158
+msgid "Rename Login Page"
+msgstr "Renombrar la página de acceso"
+
+#: init.php:4039
+msgid "Special characters are not allowed"
+msgstr "No se permiten caracteres especiales"
+
+#: init.php:4033
+msgid "The new Admin slug length must be greater than <b>4</b> chars and upto <b>50</b> chars long"
+msgstr "El nuevo slug del administrador debe tener entre <b>4</b> y <b>50</b> caracteres de largo"
+
+#: init.php:4027
+msgid "You have not confirmed that you have read the guide and configured .htaccess. Please read the guide, configure .htaccess and then save these settings and check this checkbox"
+msgstr "No has confirmado que has leído la guía y configurado .htaccess. Lee la guía, configura .htaccess y luego guarda los ajustes y marca la casilla de verificación."
+
+#: init.php:3998
+msgid "The user is not an administrator. Only administrator user's username can be changed."
+msgstr "El usuario no es un administrador. Solo se puede cambiar el nombre de usuario del usuario administrador."
+
+#: init.php:3993
+msgid "No user found with the current username provided"
+msgstr "No se ha encontrado ningún usuario con el nombre de usuario actual proporcionado"
+
+#: init.php:3986
+msgid "The new username is already assigned to another user"
+msgstr "El nuevo nombre de usuario ya está asignado a otro usuario"
+
+#: init.php:3977
+msgid "The username begins with <b>admin</b>. Please change it !"
+msgstr "El nombre de usuario comienza con <b>admin</b>. ¡Cámbialo!"
+
+#: init.php:3971
+msgid "New username is required"
+msgstr "Se requiere un nuevo nombre de usuario"
+
+#: init.php:3966
+msgid "Current username is required"
+msgstr "Se requiere el nombre de usuario actual"
+
+#: init.php:3941
+msgid "The XML-RPC slug length must be greater than <b>4</b> chars and upto <b>50</b> chars long"
+msgstr "El slug XML-RPC de acceso debe tener entre <b>4</b> y <b>50</b> caracteres de largo"
+
+#: init.php:3934
+msgid "The Login slug length must be greater than <b>4</b> chars and upto <b>50</b> chars long"
+msgstr "El slug de acceso debe tener entre <b>4</b> y <b>50</b> caracteres de largo"
+
+#: init.php:3468 init.php:3872
+msgid "Set blank to reset to the default message"
+msgstr "Déjalo en blanco para restablecer el mensaje por defecto"
+
+#: init.php:3467 init.php:3871
+msgid "Email Body"
+msgstr "Cuerpo del correo electrónico"
+
+#: init.php:3458 init.php:3862
+msgid "Set blank to reset to the default subject"
+msgstr "Déjalo en blanco para restablecer el asunto por defecto"
+
+#: init.php:3457 init.php:3861
+msgid "Email Subject"
+msgstr "Asunto del correo electrónico"
+
+#: init.php:3856
+msgid "If a wrong username/email is given, the brute force checker will prevent any brute force attempt !"
+msgstr "¡Si se proporciona un nombre de usuario o correo electrónico incorrectos, el comprobador de fuerza bruta impedirá cualquier intento de fuerza bruta!"
+
+#: init.php:3855
+msgid "If enabled, the login screen will just ask for the username <b>OR</b> email address of the user. If such a user exists, an email with a <b>One Time Login </b> link will be sent to the email address of the user. The link will be valid for 10 minutes only."
+msgstr "Si está activado, la pantalla de acceso pedirá únicamente el nombre de usuario <b>O</b> la dirección de correo electrónico del usuario. Si existe el usuario, se le enviará un correo con un enlace de <b>acceso de un solo uso</b> a su dirección de correo electrónico. El enlace será válido solo por 10 minutos."
+
+#: init.php:3848
+msgid "Enable PasswordLess Login"
+msgstr "Activar el acceso PasswordLess (sin contraseña)"
+
+#: init.php:3838
+msgid "PasswordLess Settings"
+msgstr "Ajustes de PasswordLess"
+
+#: init.php:3597
+msgid "Reset 2FA for User"
+msgstr "Restablecer la autenticación de dos factores para el usuario"
+
+#: init.php:3589
+msgid "The username or email of the user whose 2FA you would like to disable"
+msgstr "El nombre de usuario o correo electrónico del usuario para quien quieres desactivar la autenticación de dos factores"
+
+#: init.php:3588
+msgid "Username / Email"
+msgstr "Nombre de usuario / Correo electrónico"
+
+#: init.php:3583
+msgid "Here you can disable the Two Factor Authentication settings of a user. In the event a user has forgotten his secret answer or lost his Device App, he will not be able to login. You can reset such a users settings from here."
+msgstr "Aquí puedes desactivar los ajustes de la autenticación de dos factores para un usuario dado. Si llegara a olvidar su respuesta secreta o perder su dispositivo con la aplicación móvil, no podrá acceder. Puedes restablecer los ajustes de estos usuarios aquí."
+
+#: init.php:3572
+msgid "Disable Two Factor Authentication for a User"
+msgstr "Desactivar la autenticación de dos factores para un usuario dado"
+
+#: init.php:3398
+msgid "Select the Roles to which 2FA should be applied."
+msgstr "Selecciona los perfiles para los que debe aplicarse la autenticación de dos factores"
+
+#: init.php:3397
+msgid "Apply 2FA to Roles"
+msgstr "Aplicar autenticación de dos factores según perfiles"
+
+#: init.php:3389
+msgid "If the user does not have any 2FA method selected, this will enforce the OTP via Email for the users."
+msgstr "Si el usuario no tiene ningún método de autenticación de dos factores seleccionado, se forzará el uso de OTP por correo electrónico."
+
+#: init.php:3388
+msgid "Force OTP via Email"
+msgstr "Forzar OTP por correo electrónico"
+
+#: init.php:3377
+msgid "In this method the user will be asked to set a secret personal question and answer. After entering the correct login credentials, the user will be asked to answer the question set by them, thus increasing the security"
+msgstr "Este método consiste en pedirle al usuario que establezca una pregunta personal secreta y su correspondiente respuesta. Luego de ingresar las credenciales de acceso correctas, se le pedirá al usuario que responda a la pregunta que ha definido, lo que incrementa la seguridad."
+
+#: init.php:3376
+msgid "User Defined Question & Answer"
+msgstr "Pregunta y respuesta definidas por el usuario"
+
+#: init.php:3368
+msgid "After entering the correct login credentials, the user will be asked for the OTP. The OTP will be emailed to the user."
+msgstr "Luego de ingresar las credenciales de acceso correctas, se le pedirá al usuario una contraseña de un solo uso, la que se enviará por correo electrónico al usuario."
+
+#: init.php:3367 init.php:3523
+msgid "OTP via Email"
+msgstr "OTP por correo electrónico"
+
+#: init.php:3359
+msgid "After entering the correct login credentials, the user will be asked for the OTP. The OTP will be obtained from the users mobile app e.g. <b>Google Authenticator, Authy, etc.</b>"
+msgstr "Luego de ingresar las credenciales de acceso correctas, se le pedirá al usuario una contraseña de un solo uso, la que se obtendrá de una aplicación móvil del usuario como <b>Google Authenticator, Authy, etc.</b>"
+
+#: init.php:3358
+msgid "OTP via App"
+msgstr "OTP por aplicación móvil"
+
+#: init.php:3353
+msgid "Please choose from the following Two Factor Authentication methods. Each user can choose any one method from the ones enabled by you. You can enable all or anyone that you would like."
+msgstr "Elige entre los siguientes métodos de autenticación de dos factores. Cada usuario puede escoger cualquiera de los métodos que hayas activado. Puedes activarlos todos o aquellos que quieras."
+
+#: init.php:3342
+msgid "Two Factor Authentication Settings"
+msgstr "Ajustes de autenticación de dos factores"
+
+#: init.php:3143
+msgid "The user's 2FA settings have been reset"
+msgstr "Se han restablecido los ajustes de autenticación de dos factores del usuario"
+
+#: init.php:3129
+msgid "There is no such user with the email or username you submitted"
+msgstr "No existe ningún usuario con el correo electrónico o el nombre de usuario que has enviado"
+
+#: init.php:3009
+msgid "Disable reCAPTCHA"
+msgstr "Desactivar reCAPTCHA"
+
+#: init.php:3002
+msgid "Disable CSS inserted on Login Page"
+msgstr "Desactivar el CSS insertado en la página de acceso"
+
+#: init.php:2996
+msgid "Hide CAPTCHA for logged in Users"
+msgstr "Ocultar captcha para los usuarios conectados"
+
+#: init.php:2985
+msgid "WooCommerce Checkout"
+msgstr "Página de finalizar compra de WooCommerce"
+
+#: init.php:2978
+msgid "Comment Form"
+msgstr "Formulario de comentarios"
+
+#: init.php:2974
+msgid "Registration Form"
+msgstr "Formulario de registro"
+
+#: init.php:2970
+msgid "Reset Password Form"
+msgstr "Formulario de restablecimiento de contraseña"
+
+#: init.php:2966
+msgid "Lost Password Form"
+msgstr "Formulario de contraseña perdida"
+
+#: init.php:2962
+msgid "Login Form"
+msgstr "Formulario de acceso"
+
+#: init.php:2957
+msgid "Show Captcha On"
+msgstr "Mostrar captcha en"
+
+#: init.php:2949
+msgid "Division (รท)"
+msgstr "División (รท)"
+
+#: init.php:2945
+msgid "Multiplication (x)"
+msgstr "Multiplicación (×)"
+
+#: init.php:2941
+msgid "Subtraction (-)"
+msgstr "Resta (-)"
+
+#: init.php:2937
+msgid "Addition (+)"
+msgstr "Suma (+)"
+
+#: init.php:2931
+msgid "The Mathematical operations to use for Captcha"
+msgstr "Las operaciones matemáticas que se usarán para el captcha"
+
+#: init.php:2930
+msgid "Mathematical operations"
+msgstr "Operaciones matemáticas"
+
+#: init.php:2922
+msgid "If selected the Captcha will be displayed in words rather than numbers"
+msgstr "Si se selecciona, el captcha se mostrará en palabras en lugar de números"
+
+#: init.php:2921
+msgid "Display Captcha in Words"
+msgstr "Mostrar el captcha en palabras"
+
+#: init.php:2913
+msgid "Enter the number of seconds, a user has to enter captcha value."
+msgstr "Introduce el número de segundos que tiene un usuario para introducir el valor del captcha."
+
+#: init.php:2912
+msgid "Captcha Time"
+msgstr "Duración del captcha"
+
+#: init.php:2904
+msgid "The text to be shown for the Captcha Field"
+msgstr "El texto que se mostrará para el campo del captcha"
+
+#: init.php:2903
+msgid "Captcha Text"
+msgstr "Texto del captcha"
+
+#: init.php:2895
+msgid "If selected, "
+msgstr "Si está seleccionado, "
+
+#: init.php:2894
+msgid "Don't use Google reCAPTCHA"
+msgstr "No usar Google reCAPTCHA"
+
+#: init.php:2881
+msgid "Size"
+msgstr "Tamaño"
+
+#: init.php:2869
+msgid "Language"
+msgstr "Idioma"
+
+#: init.php:2857
+msgid "Theme"
+msgstr "Tema"
+
+#: init.php:2851
+msgid "Secret Key"
+msgstr "Clave secreta"
+
+#: init.php:2847
+msgid "Get the Site Key and Secret Key from <a href=\"https://www.google.com/recaptcha/admin/\" target=\"_blank\">Google</a>"
+msgstr "Obtén la clave del sitio y la clave secreta de <a href=\"https://www.google.com/recaptcha/admin/\" target=\"_blank\">Google</a>"
+
+#: init.php:2843
+msgid "Make sure you enter the correct keys as per the reCAPTCHA type selected above"
+msgstr "Asegúrate de introducir las claves correctas según el tipo de reCAPTCHA seleccionado arriba"
+
+#: init.php:2842
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+#: init.php:2838
+msgid "reCAPTCHA v2 - Invisible"
+msgstr "reCAPTCHA v2: invisible"
+
+#: init.php:2837
+msgid "reCAPTCHA v2 - Checkbox"
+msgstr "reCAPTCHA v2: casilla de verificación"
+
+#: init.php:2836
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: init.php:2833
+msgid "<a href=\"https://g.co/recaptcha/sitetypes/\" target=\"_blank\">See Site Types for more details</a>"
+msgstr "<a href=\"https://g.co/recaptcha/sitetypes/\" target=\"_blank\">Ver los tipos de sitios para más detalles</a>"
+
+#: init.php:2832
+msgid "Choose the type of reCAPTCHA"
+msgstr "Elige el tipo de reCAPTCHA"
+
+#: init.php:2831
+msgid "reCAPTCHA type"
+msgstr "Tipo de reCAPTCHA"
+
+#: init.php:2821
+msgid "reCAPTCHA Settings"
+msgstr "Ajustes de reCAPTCHA"
+
+#: init.php:2801
+msgid "reCAPTCHA has been disabled !"
+msgstr "¡Se ha desactivado el reCAPTCHA!"
+
+#: init.php:2750
+msgid "The reCAPTCHA language is invalid"
+msgstr "El idioma del reCAPTCHA no es válido"
+
+#: init.php:2745
+msgid "The reCAPTCHA size is invalid"
+msgstr "El tamaño del reCAPTCHA no es válido"
+
+#: init.php:2740
+msgid "The reCAPTCHA theme is invalid"
+msgstr "El tema del reCAPTCHA no es válido"
+
+#: init.php:2735
+msgid "The reCAPTCHA secret is invalid"
+msgstr "El secreto del reCAPTCHA no es válido"
+
+#: init.php:2730
+msgid "The reCAPTCHA key is invalid"
+msgstr "La clave del reCAPTCHA no es válida"
+
+#: init.php:2723
+msgid "The Captcha key was not submitted"
+msgstr "No se ha enviado la clave del captcha"
+
+#: init.php:2621 init.php:3067 init.php:3758 init.php:3914 init.php:4605
+msgid "This feature is not available in the Free version. <a href=\""
+msgstr "Esta característica no está disponible en la versión gratuita. <a href=\""
+
+#: init.php:2450
+msgid "Save Error Messages"
+msgstr "Guardar mensajes de error"
+
+#: init.php:2429
+msgid "Lockout Error"
+msgstr "Error de bloqueo"
+
+#: init.php:2422
+msgid "Attempts Left"
+msgstr "Intentos restantes"
+
+#: init.php:2415
+msgid "Blacklisted IP"
+msgstr "IP en lista negra"
+
+#: init.php:2411 init.php:2418 init.php:2425 init.php:2432 init.php:2439
+#: init.php:2446 init.php:3514 init.php:3524 init.php:3534 init.php:3544
+#: init.php:3554
+msgid "Default: <em>&quot;"
+msgstr "Por defecto: <em>&quot;"
+
+#: init.php:2408
+msgid "Failed Login Attempt"
+msgstr "Intento de acceso fallido"
+
+#: init.php:2398
+msgid "Error Messages"
+msgstr "Mensajes de error"
+
+#: init.php:2366
+msgid "No Whitelist IPs. You will see whitelisted IP ranges here."
+msgstr "Sin IP en lista blanca. Aquí verás los rangos de IP en la lista blanca."
+
+#: init.php:2324
+msgid "Delete All Whitelist IP Range(s)"
+msgstr "Borrar todos los rangos de IP de la lista blanca"
+
+#: init.php:2324
+msgid "Are you sure you want to delete all Whitelist IP Range(s) ?"
+msgstr "¿Estás seguro de que quieres borrar todos los rangos de IP de la lista blanca?"
+
+#: init.php:2323 init.php:3692
+msgid "Add Whitelist IP Range"
+msgstr "Añadir un rango de IP a la lista blanca"
+
+#: init.php:2319 init.php:3688
+msgid "End IP of the range. <br />If you want to whitelist single IP leave this field blank."
+msgstr "IP final del rango<br />Si quieres añadir solo una IP a la lista blanca, deja este campo en blanco."
+
+#: init.php:2306
+msgid "Enter the IP you want to whitelist for login"
+msgstr "Ingresa la IP que deseas añadir a la lista blanca de acceso"
+
+#: init.php:2300
+msgid "Whitelist IP"
+msgstr "Añadir IP a la lista blanca"
+
+#: init.php:2263
+msgid "No Blacklist IPs. You will see blacklisted IP ranges here."
+msgstr "Sin IP en lista negra. Aquí verás los rangos de IP en la lista negra."
+
+#: init.php:2256 init.php:2359 init.php:3703
+msgid "Options"
+msgstr "Opciones"
+
+#: init.php:2255 init.php:2358 init.php:3702
+msgid "Date (DD/MM/YYYY)"
+msgstr "Fecha (DD/MM/AAAA)"
+
+#: init.php:2254 init.php:2357 init.php:3701
+msgid "End IP"
+msgstr "IP final"
+
+#: init.php:2220
+msgid "Delete All Blacklist IP Range(s)"
+msgstr "Borrar todos los rangos de IP de la lista negra"
+
+#: init.php:2220
+msgid "Are you sure you want to delete all Blacklist IP Range(s) ?"
+msgstr "¿Estás seguro de que quieres borrar todos los rangos de IP de la lista negra?"
+
+#: init.php:2219
+msgid "Add Blacklist IP Range"
+msgstr "Añadir un rango de IP a la lista negra"
+
+#: init.php:2215
+msgid "End IP of the range. <br />If you want to blacklist single IP leave this field blank."
+msgstr "IP final del rango<br />Si quieres añadir solo una IP a la lista negra, deja este campo en blanco."
+
+#: init.php:2213 init.php:2317 init.php:3686
+msgid "End IP (Optional)"
+msgstr "IP final (opcional)"
+
+#: init.php:2209 init.php:2313 init.php:3682
+msgid "Start IP of the range"
+msgstr "IP inicial del rango"
+
+#: init.php:2207 init.php:2253 init.php:2311 init.php:2356 init.php:3680
+#: init.php:3700
+msgid "Start IP"
+msgstr "IP inicial"
+
+#: init.php:2201
+msgid "Enter the IP you want to blacklist from login"
+msgstr "Ingresa la IP que deseas añadir a la lista negra de acceso"
+
+#: init.php:2195
+msgid "Blacklist IP"
+msgstr "Añadir IP a la lista negra"
+
+#: init.php:2119
+msgid "Enable Brute Force Protection"
+msgstr "Activar la protección contra la fuerza bruta"
+
+#: init.php:2115
+msgid "Disable Brute Force Protection"
+msgstr "Desactivar la protección contra la fuerza bruta"
+
+#: init.php:2110 init.php:3008 init.php:3412 init.php:3486 init.php:3892
+#: init.php:4202 init.php:4257 init.php:4376 init.php:4814
+msgid "Save Settings"
+msgstr "Guardar los ajustes"
+
+#: init.php:2106
+msgid "lockouts <br />0 to disable email notifications"
+msgstr "bloqueos<br />0 para desactivar los avisos por correo electrónico"
+
+#: init.php:2105
+msgid "after "
+msgstr "tras "
+
+#: init.php:2103
+msgid "Email Notification"
+msgstr "Aviso por correo electrónico"
+
+#: init.php:2099
+msgid "hours"
+msgstr "horas"
+
+#: init.php:2097
+msgid "Reset Retries"
+msgstr "Restablecer los intentos"
+
+#: init.php:2093
+msgid "hours. Extend Lockout time after Max Lockouts"
+msgstr "horas. Extiende la duración del bloqueo después de alcanzar el máximo de bloqueos."
+
+#: init.php:2091
+msgid "Extend Lockout"
+msgstr "Ampliar el bloqueo"
+
+#: init.php:2085
+msgid "Max Lockouts"
+msgstr "Máximo de bloqueos"
+
+#: init.php:2081
+msgid "minutes"
+msgstr "minutos"
+
+#: init.php:2079
+msgid "Lockout Time"
+msgstr "Duración del bloqueo"
+
+#: init.php:2075
+msgid "Maximum failed attempts allowed before lockout"
+msgstr "Número máximo de intentos fallidos antes del bloqueo"
+
+#: init.php:2073
+msgid "Max Retries"
+msgstr "Intentos máximos"
+
+#: init.php:2051
+msgid "Clear All Logs"
+msgstr "Vaciar todos los registros"
+
+#: init.php:2049
+msgid "Remove From Logs"
+msgstr "Borrar de los registros"
+
+#: init.php:2012
+msgid "No Logs. You will see logs about failed login attempts here."
+msgstr "Sin registros. Aquí verás los registros de intentos de acceso fallidos."
+
+#: init.php:2004
+msgid "URL Attacked"
+msgstr "URL atacada"
+
+#: init.php:2003
+msgid "Lockouts Count"
+msgstr "Número de bloqueos"
+
+#: init.php:2002
+msgid "Failed Attempts Count"
+msgstr "Número de intentos fallidos"
+
+#: init.php:2001
+msgid "Last Failed Attempt  (DD/MM/YYYY)"
+msgstr "Último intento fallido (DD/MM/AAAA)"
+
+#: init.php:2000
+msgid "Attempted Username"
+msgstr "Nombre de usuario ingresado"
+
+#: init.php:1999
+msgid "IP"
+msgstr "IP"
+
+#: init.php:1913
+msgid "<span>Failed Login Attempts Logs</span> &nbsp; (Past "
+msgstr "<span>Registros de intentos de acceso fallido</span> &nbsp; (Últimas "
+
+#: init.php:1875
+msgid "Error messages were saved successfully"
+msgstr "Los mensajes de error se guardaron correctamente"
+
+#: init.php:1725
+msgid "Whitelist IP range added successfully"
+msgstr "El rango de IP en lista blanca se añadió correctamente"
+
+#: init.php:1692
+msgid "Blacklist IP range added successfully"
+msgstr "El rango de IP en lista negra se añadió correctamente"
+
+#: init.php:2587 init.php:3266
+msgid "The End IP is present in an existing range!"
+msgstr "¡La IP final está presente en un rango existente!"
+
+#: init.php:2581 init.php:3260
+msgid "The Start IP is present in an existing range !"
+msgstr "¡La IP inicial está presente en un rango existente!"
+
+#: init.php:2575 init.php:3254
+msgid "The Start IP or End IP submitted conflicts with an existing IP range !"
+msgstr "¡Hay un conflicto entre la IP inicial o final enviada y un rango de IP existente!"
+
+#: init.php:2553 init.php:3239
+msgid "The End IP cannot be smaller than the Start IP"
+msgstr "La IP final no puede ser menor que la IP inicial"
+
+#: init.php:2544 init.php:3230
+msgid "Please provide a valid end IP"
+msgstr "Ingresa una IP final válida"
+
+#: init.php:2540 init.php:3226
+msgid "Please provide a valid start IP"
+msgstr "Ingresa una IP inicial válida"
+
+#: init.php:2531 init.php:3216
+msgid "Please enter the Start IP"
+msgstr "Ingresa la IP inicial"
+
+#: init.php:1657
+msgid "The selected IP Logs have been reset"
+msgstr "Los registros de IP seleccionados han sido restablecidos"
+
+#: init.php:1644 init.php:1818
+msgid "There are no IPs submitted"
+msgstr "No se han enviado IP"
+
+#: init.php:1628
+msgid "All the IP Logs have been cleared"
+msgstr "Se han vaciado todos los registros de IP"
+
+#: init.php:1617 init.php:3205
+msgid "The Whitelist IP range(s) have been cleared successfully"
+msgstr "El (los) rango(s) de IP en lista blanca se ha(n) borrado correctamente"
+
+#: init.php:1605 init.php:3194
+msgid "The Whitelist IP range has been deleted successfully"
+msgstr "El rango de IP en lista blanca se ha borrado correctamente"
+
+#: init.php:1589
+msgid "The Blacklist IP range(s) have been cleared successfully"
+msgstr "El (los) rango(s) de IP en lista negra se ha(n) borrado correctamente"
+
+#: init.php:1577
+msgid "The Blacklist IP range has been deleted successfully"
+msgstr "El rango de IP en lista negra se ha borrado correctamente"
+
+#: init.php:1517
+msgid "The Brute Force Protection feature is now enabled"
+msgstr "La característica de protección por fuerza bruta está ahora activada"
+
+#: init.php:1503
+msgid "The Brute Force Protection feature is now disabled"
+msgstr "La característica de protección por fuerza bruta está ahora desactivada"
+
+#: init.php:1428
+msgid "Actual"
+msgstr "Actuales"
+
+#: init.php:1427
+msgid "Suggested"
+msgstr "Sugeridos"
+
+#: init.php:1426 init.php:4848 init.php:4905
+msgid "Relative Path"
+msgstr "Ruta relativa"
+
+#: init.php:1413
+msgid "File Permissions"
+msgstr "Permisos de archivos"
+
+#: init.php:1381
+msgid ".htaccess is writable"
+msgstr "El archivo .htaccess tiene permisos de escritura"
+
+#: init.php:1374
+msgid "wp-config.php is writable"
+msgstr "El archivo wp-config.php tiene permisos de escritura"
+
+#: init.php:1358
+msgid "Your IP Address"
+msgstr "Tu dirección IP"
+
+#: init.php:1354
+msgid "Server's IP Address"
+msgstr "Dirección IP del servidor"
+
+#: init.php:1350
+msgid "Path"
+msgstr "Ruta"
+
+#: init.php:1346
+msgid "URL"
+msgstr "URL"
+
+#: init.php:1339
+msgid "Loginizer Version"
+msgstr "Versión de Loginizer"
+
+#: init.php:1328
+msgid "System Information"
+msgstr "Información del sistema"
+
+#: init.php:1297
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: init.php:1283 init.php:1560 init.php:2796 init.php:3806 init.php:4126
+#: init.php:4703
+msgid "The settings were saved successfully"
+msgstr "Los ajustes se han guardado correctamente"
+
+#: init.php:1276
+msgid "<a href=\"https://loginizer.com/blog/loginizer-has-been-acquired-by-softaculous/\" target=\"_blank\" style=\"text-decoration:none;\">We are excited to announce that we have joined forces with Softaculous and have been acquired by them 😊. Read full announcement here.</a>"
+msgstr "<a href=\"https://loginizer.com/blog/loginizer-has-been-acquired-by-softaculous/\" target=\"_blank\" style=\"text-decoration:none;\">Nos complace anunciar que nos hemos unido a Softaculous y que ellos nos adquirieron 😊. Lee el anuncio completo aquí.</a>"
+
+#: init.php:1028
+msgid "Review Loginizer"
+msgstr "Valorar Loginizer"
+
+#: init.php:994
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: init.php:994
+msgid "Loginizer Go Pro"
+msgstr "Pasar a Loginizer Pro"
+
+#: init.php:987
+msgid "File Checksums"
+msgstr "Sumas de verificación de archivo"
+
+#: init.php:987
+msgid "Loginizer File Checksums"
+msgstr "Sumas de verificación de archivo de Loginizer"
+
+#: init.php:978
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: init.php:973
+msgid "Two Factor Auth"
+msgstr "Autenticación de dos factores"
+
+#: init.php:967
+msgid "PasswordLess"
+msgstr "PasswordLess"
+
+#: init.php:964
+msgid "Brute Force"
+msgstr "Fuerza bruta"
+
+#: init.php:964 init.php:2063
+msgid "Brute Force Settings"
+msgstr "Ajustes de fuerza bruta"
+
+#: init.php:959
+msgid "Rename Login"
+msgstr "Renombrar el acceso"
+
+#: init.php:959 init.php:984
+msgid "Security Settings"
+msgstr "Ajustes de seguridad"
+
+#: init.php:956
+msgid "Security"
+msgstr "Seguridad"
+
+#: init.php:951
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: init.php:948
+msgid "Loginizer Security"
+msgstr "Seguridad de Loginizer"
+
+#: init.php:948 init.php:951
+msgid "Loginizer Dashboard"
+msgstr "Escritorio de Loginizer"
+
+#: init.php:929
+msgctxt "Plugin action link label."
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: init.php:430
+msgid "LZ : Not allowed via WP-ADMIN. Please access over the new Admin URL"
+msgstr "LZ: No permitido mediante WP-ADMIN. Accede usando la nueva URL del administrador"
+
+#: init.php:385
+msgid "Math Captcha"
+msgstr "Captcha matemático"
+
+#: init.php:235
+msgid "You have exceeded maximum login retries<br /> Please try after"
+msgstr "Has superado al máximo de intentos de acceso<br /> Vuelve a intentarlo después de "
+
+#: init.php:234
+msgid "attempt(s) left"
+msgstr "intento(s) restantes"
+
+#: init.php:233
+msgid "Your IP has been blacklisted"
+msgstr "Tu IP se ha añadido a la lista negra"
+
+#: init.php:232
+msgid "Incorrect Username or Password"
+msgstr "Nombre de usuario o contraseña incorrectos"
+
+#. Author URI of the plugin
+msgid "https://www.loginizer.com"
+msgstr "https://www.loginizer.com"
+
+#. Author of the plugin
+msgid "Softaculous"
+msgstr "Softaculous"
+
+#. Description of the plugin
+msgid "Loginizer is a WordPress plugin which helps you fight against bruteforce attack by blocking login for the IP after it reaches maximum retries allowed. You can blacklist or whitelist IPs for login using Loginizer."
+msgstr "Loginizer es un plugin de WordPress que te ayuda a luchar contra ataques de fuerza bruta bloqueando el acceso de la IP después de alcanzar un máximo de intentos permitidos. Con Loginizer puedes añadir direcciones IP a la lista negra o a la lista blanca de acceso."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/extend/plugins/loginizer/"
+msgstr "https://es.wordpress.org/plugins/loginizer/"
+
+#. Plugin Name of the plugin
+msgid "Loginizer"
+msgstr "Loginizer"

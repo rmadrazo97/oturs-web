@@ -1,0 +1,248 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TownHub Import\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-28 10:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.1"
+
+#. Description of the plugin
+msgid "A custom plugin for TownHub - Directory & Listing WordPress Theme"
+msgstr ""
+
+#: includes/fields.php:9
+msgid "Address/Contacts"
+msgstr ""
+
+#: includes/fields.php:417
+msgid ""
+"Available Dates - separate with semicolon. Ex: 2020-03-02;2020-03-18;2020-03-"
+"31"
+msgstr ""
+
+#: includes/fields.php:182
+msgid "Claim Status (Empty for Not claimed)"
+msgstr ""
+
+#. Author of the plugin
+msgid "CTHthemes"
+msgstr ""
+
+#: includes/fields.php:550
+msgid ""
+"Days and hours. Ex: Mon,09:00:00,19:00:00|Tue,09:00:00,19:00:00|Wed,09:00:00,"
+"19:00:00|Thu,09:00:00,19:00:00|Fri,09:00:00,19:00:00|Sat,09:00:00,19:00:"
+"00|Sun,closeAllDay"
+msgstr ""
+
+#: includes/fields.php:94
+msgid "Email"
+msgstr ""
+
+#: includes/fields.php:488
+msgid ""
+"Enter your Google Developers API key to fetch coordinates from google "
+"(Required services: Google Maps Geocoding API - And set your Google "
+"Application Restrictions to None: http://prntscr.com/kp1xhc )."
+msgstr ""
+
+#: includes/fields.php:393
+msgid "Event Date End (Format: 2020-02-20 16:30:00)"
+msgstr ""
+
+#: includes/fields.php:382
+msgid "Event Start Date (Format: 2020-02-20 08:30:00)"
+msgstr ""
+
+#: includes/fields.php:553
+msgid ""
+"Format: Mon,OpenTime,CloseTime|Tue,OpenTime1,CloseTime1;OpenTime2,CloseTime2 "
+"and so on"
+msgstr ""
+
+#: includes/fields.php:233
+msgid "Gallery/Slider Images"
+msgstr ""
+
+#: includes/fields.php:246
+msgid "Header Images"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/cththemes"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://townhub.cththemes.com"
+msgstr ""
+
+#: includes/fields.php:507
+msgid "Image Background (from Header Images)"
+msgstr ""
+
+#: includes/fields.php:496
+msgid "Latitude"
+msgstr ""
+
+#: includes/fields.php:20
+msgid "Listing Address (Google address is recommended)"
+msgstr ""
+
+#: includes/fields.php:28
+msgid "Listing Coordinates"
+msgstr ""
+
+#: includes/fields.php:461
+msgid "Listing Expire Date (Format: 2020-02-20 16:30:00)"
+msgstr ""
+
+#: includes/fields.php:209
+msgid "Listing Featured Image"
+msgstr ""
+
+#: includes/fields.php:270
+msgid ""
+"Listing Header Type. Images for header are from <strong>Listing Header "
+"Images</strong> section"
+msgstr ""
+
+#: includes/fields.php:221
+msgid "Listing Logo Image"
+msgstr ""
+
+#: includes/fields.php:452
+msgid "Listing Plan ID (Optional)"
+msgstr ""
+
+#: includes/fields.php:443
+msgid ""
+"Listing Type ID (Optional) - <a href=\"https://www.youtube.com/watch?v=Tn7-"
+"F630lO4&list=PL8lnIVh9k3Ptfsumpmxf4CH4oIdMl9GLe\" target=\"_blank\">What's "
+"the Listing Type?</a>"
+msgstr ""
+
+#: includes/fields.php:349
+msgid "Listing Video ( YouTube, Vimeo or .mp4 video url )"
+msgstr ""
+
+#: includes/fields.php:497
+msgid "Longitude"
+msgstr ""
+
+#: includes/fields.php:198
+msgid "Media Options"
+msgstr ""
+
+#: includes/fields.php:454
+msgid ""
+"Membership package ID ( Listing Plans post ), which this listing get field "
+"settings from."
+msgstr ""
+
+#: includes/fields.php:495
+msgid "Or Coordinate values"
+msgstr ""
+
+#: includes/fields.php:512
+msgid "Or Vimeo URL (.MP4)"
+msgstr ""
+
+#: includes/fields.php:511
+msgid "Or Vimeo Video ID. Ex: 97871257"
+msgstr ""
+
+#: includes/fields.php:431
+msgid "Other Options"
+msgstr ""
+
+#: includes/fields.php:77
+msgid "Phone"
+msgstr ""
+
+#: includes/fields.php:166
+msgid "Price From - Main Price"
+msgstr ""
+
+#: includes/fields.php:139
+msgid "Price Options"
+msgstr ""
+
+#: includes/fields.php:151
+msgid "Price Status"
+msgstr ""
+
+#: includes/fields.php:174
+msgid "Price To"
+msgstr ""
+
+#: includes/fields.php:485
+msgid "Search by Address"
+msgstr ""
+
+#: includes/fields.php:111
+msgid "Serialized Restaurant menus"
+msgstr ""
+
+#: includes/fields.php:514
+msgid "Slider (from Header Images)"
+msgstr ""
+
+#: includes/fields.php:515
+msgid "Slideshow (from Header Images)"
+msgstr ""
+
+#: includes/fields.php:123
+msgid "Socials"
+msgstr ""
+
+#: includes/fields.php:541
+msgid ""
+"Timezone String. Default is your site timezone. Ex: America/New_York.<br><a "
+"href=\"http://php.net/manual/en/timezones.php\" target=\"_blank\">Available "
+"values</a>"
+msgstr ""
+
+#. Name of the plugin
+msgid "TownHub Import"
+msgstr ""
+
+#: includes/fields.php:509
+msgid "Video Background"
+msgstr ""
+
+#: includes/fields.php:292
+msgid "Vimeo Background ( video ID. Ex: 97871257 )"
+msgstr ""
+
+#: includes/fields.php:303
+msgid "Vimeo URL (.MP4)"
+msgstr ""
+
+#: includes/fields.php:102
+msgid "Website"
+msgstr ""
+
+#: includes/fields.php:85
+msgid "Whatsapp number"
+msgstr ""
+
+#: includes/fields.php:405
+msgid "Working Hours"
+msgstr ""
+
+#: includes/fields.php:281
+msgid "Youtube Background ( video ID. Ex: Hg5iNVSp2z8 )"
+msgstr ""
+
+#: includes/fields.php:510
+msgid "Youtube Video ID. Ex: Hg5iNVSp2z8"
+msgstr ""

@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: TownHub theme - Full Demo Content (widgets included) were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://oturstravel.com
+Data file = /home/oturthwm/public_html/wp-content/themes/townhub/inc/demo_data_files/all-content.xml
+Widget file = /home/oturthwm/public_html/wp-content/themes/townhub/inc/demo_data_files/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Dashboard Feed : 
+
+TownHub Banner - No Title - Widget already exists
+
+Blog Sidebar : 
+
+Buscar - Search - Widget already exists
+Galería - Our Instagram - Widget already exists
+TownHub Recent Posts - Popular Posts - Widget already exists
+TownHub Banner - No Title - Widget already exists
+Nube de etiquetas - Tags - Widget already exists
+Categorías - Categories - Widget already exists
+TownHub Author - About Athor - Widget already exists
+TownHub Twitter Feed - Twitter Feeds - Widget already exists
+TownHub Instagram - Our Instagram - Widget already exists
+
+Page Sidebar : 
+
+HTML personalizado - About Us - Widget already exists
+
+Shop Sidebar : 
+
+Product Search - Search Products - Widget already exists
+Cart - Cart - Widget already exists
+Product Categories - Product categories - Widget already exists
+Products list - Products - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+
+Languages Switcher : 
+
+HTML personalizado - No Title - Widget already exists
+
+Subscribe Text : 
+
+HTML personalizado - No Title - Widget already exists
+
+Subscribe Form : 
+
+HTML personalizado - No Title - Widget already exists
+
+About Us : 
+
+Imagen - No Title - Widget already exists
+HTML personalizado - No Title - Widget already exists
+
+Our Last News : 
+
+TownHub Recent Posts - Our Last News - Widget already exists
+
+Our Tweets : 
+
+TownHub Twitter Feed - Our Twitter - Widget already exists
+
+Footer Menu : 
+
+Menú de Navegación - Footer Menu - Widget already exists
+HTML personalizado - Languages - Widget already exists
+
+
+
+---ocdi/after_import---
+

@@ -1,0 +1,76 @@
+
+---Archivos descargados---
+Los archivos de importación para Tema TownHub - Contenido demo completo (widgets incluidos) ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 1500
+Información de archivos:
+URL del sitio = https://oturstravel.com
+Archivo de datos = /home/oturthwm/public_html/wp-content/themes/townhub/inc/demo_data_files/all-content.xml
+Archivo de widget = /home/oturthwm/public_html/wp-content/themes/townhub/inc/demo_data_files/widgets.wie
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ ¡no definido!
+
+---Importando los widgets---
+Panel de alimentación : 
+
+TownHub Banner - Sin título - El widget ya existe
+
+Blog Sidebar : 
+
+Buscar - Search - El widget ya existe
+Galería - Our Instagram - El widget ya existe
+Publicaciones recientes de TownHub - Popular Posts - El widget ya existe
+TownHub Banner - Sin título - El widget ya existe
+Nube de etiquetas - Tags - El widget ya existe
+Categorías - Categories - El widget ya existe
+Autor de TownHub - About Athor - El widget ya existe
+Feed de Twitter de TownHub - Twitter Feeds - El widget ya existe
+TownHub Instagram - Our Instagram - El widget ya existe
+
+Barra lateral de página : 
+
+HTML personalizado - About Us - El widget ya existe
+
+Comprar barra lateral : 
+
+Búsqueda de productos - Search Products - El widget ya existe
+Carrito - Cart - El widget ya existe
+Categorías de producto - Product categories - El widget ya existe
+Lista de productos - Products - El widget ya existe
+Nube de etiquetas de productos - Product tags - El widget ya existe
+Filtrar productos por precio - Filter by price - El widget ya existe
+
+Selector de idiomas : 
+
+HTML personalizado - Sin título - El widget ya existe
+
+Subscribe Text : 
+
+HTML personalizado - Sin título - El widget ya existe
+
+Subscribe Form : 
+
+HTML personalizado - Sin título - El widget ya existe
+
+About Us : 
+
+Imagen - Sin título - El widget ya existe
+HTML personalizado - Sin título - El widget ya existe
+
+Our Last News : 
+
+Publicaciones recientes de TownHub - Our Last News - El widget ya existe
+
+Our Tweets : 
+
+Feed de Twitter de TownHub - Our Twitter - El widget ya existe
+
+Menú de pie de página : 
+
+Menú de navegación - Footer Menu - El widget ya existe
+HTML personalizado - Languages - El widget ya existe
+
+
+
+---ocdi/after_import---
+

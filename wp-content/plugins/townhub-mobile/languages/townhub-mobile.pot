@@ -1,0 +1,952 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TownHub Mobile App\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-19 09:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: inc/rest-user.php:294
+msgid "Invalid user to get notifications"
+msgstr ""
+
+#: inc/rest-user.php:321
+msgid "Invalid user id"
+msgstr ""
+
+#: inc/rest-user.php:327
+msgid "Invalid listing ID"
+msgstr ""
+
+#: inc/rest-user.php:335
+msgid "This listing has been already bookmarked"
+msgstr ""
+
+#: inc/rest-user.php:368
+msgid "Bookmark listing successful"
+msgstr ""
+
+#: inc/rest-user.php:489 inc/rest-api.php:1672
+msgid "wp_insert_attachment error on custom avatar upload image"
+msgstr ""
+
+#: inc/rest-user.php:612 inc/rest-user.php:661 inc/rest-user.php:702
+msgid "Something went wrong"
+msgstr ""
+
+#: inc/rest-user.php:613 inc/rest-user.php:662 inc/rest-user.php:703
+msgid "Invalid email or password"
+msgstr ""
+
+#: inc/rest-user.php:636
+msgid "Login success"
+msgstr ""
+
+#: inc/rest-user.php:643
+msgid "Successfully Authenticated"
+msgstr ""
+
+#: inc/rest-user.php:646
+msgid "Invalid password"
+msgstr ""
+
+#: inc/rest-user.php:649 inc/rest-user.php:693
+msgid "Invalid username or email"
+msgstr ""
+
+#: inc/rest-user.php:652 inc/rest-user.php:712
+msgid "Username or email must not be empty"
+msgstr ""
+
+#: inc/rest-user.php:669
+msgid "Enter a username or email address."
+msgstr ""
+
+#: inc/rest-user.php:682
+msgid "There is something wrong. Please try again."
+msgstr ""
+
+#: inc/rest-user.php:685
+msgid "Email could not be sent"
+msgstr ""
+
+#: inc/rest-user.php:688
+msgid "Your password has been reset"
+msgstr ""
+
+#: inc/rest-user.php:689 inc/rest-user.php:754
+msgid "You will shortly receive an email with a link to setup a new password"
+msgstr ""
+
+#: inc/rest-user.php:717
+msgid "Email address is invalid"
+msgstr ""
+
+#: inc/rest-user.php:743
+msgid "Your account has been registered"
+msgstr ""
+
+#: inc/rest-user.php:744
+msgid "You can login with the account details"
+msgstr ""
+
+#: inc/rest-api.php:262
+msgid "List view"
+msgstr ""
+
+#: inc/rest-api.php:263
+msgid "Grid view"
+msgstr ""
+
+#: inc/rest-api.php:511
+msgid "English"
+msgstr ""
+
+#: inc/rest-api.php:516
+msgid "French (France)"
+msgstr ""
+
+#: inc/rest-api.php:521
+msgid "Turkish"
+msgstr ""
+
+#: inc/rest-api.php:526
+msgid "Chinese (China)"
+msgstr ""
+
+#: inc/rest-api.php:531
+msgid "Myanmar (Burmese)"
+msgstr ""
+
+#: inc/rest-api.php:536
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: inc/rest-api.php:541
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: inc/rest-api.php:546
+msgid "Japanese"
+msgstr ""
+
+#: inc/rest-api.php:551
+msgid "Polish"
+msgstr ""
+
+#: inc/rest-api.php:556
+msgid "Russian"
+msgstr ""
+
+#: inc/rest-api.php:561
+msgid "Italian"
+msgstr ""
+
+#: inc/rest-api.php:566
+msgid "German"
+msgstr ""
+
+#: inc/rest-api.php:571
+msgid "Vietnamese (Viet Nam)"
+msgstr ""
+
+#: inc/rest-api.php:878 inc/rest-booking.php:369
+msgid "Invalid listing id"
+msgstr ""
+
+#: inc/rest-api.php:908 inc/rest-api.php:1009
+#, php-format
+msgctxt "reviews"
+msgid "%d review"
+msgid_plural "%d reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/rest-api.php:922
+#, php-format
+msgctxt "Search distance"
+msgid "%s km"
+msgstr ""
+
+#: inc/rest-api.php:924
+#, php-format
+msgctxt "Search distance"
+msgid "%s mile"
+msgstr ""
+
+#: inc/rest-api.php:1065
+#, php-format
+msgctxt "Author listing count"
+msgid "%d Places Hosted"
+msgstr ""
+
+#: inc/rest-api.php:1611
+msgid "No data supplied."
+msgstr ""
+
+#: inc/rest-api.php:1621
+msgid "No file data supplied."
+msgstr ""
+
+#: inc/rest-api.php:1629
+msgid "No file name supplied."
+msgstr ""
+
+#: inc/meta-boxes.php:8 inc/meta-boxes.php:52 inc/meta-boxes.php:64
+msgid "Mobile App"
+msgstr ""
+
+#: inc/meta-boxes.php:75 inc/meta-boxes.php:95
+msgid "Mobile Apps"
+msgstr ""
+
+#: inc/meta-boxes.php:100
+msgid "Booking Type"
+msgstr ""
+
+#: inc/meta-boxes.php:103
+msgid "Simple - Checkin"
+msgstr ""
+
+#: inc/meta-boxes.php:104
+msgid "Hotel Rooms - Check In-Out"
+msgstr ""
+
+#: inc/meta-boxes.php:105
+msgid "Event - Checkin/Tickets"
+msgstr ""
+
+#: inc/meta-boxes.php:106
+msgid "Tour - Checkin/Tickets"
+msgstr ""
+
+#: inc/meta-boxes.php:109
+msgid ""
+"Allow user select checkin/checkout dates on checkin date only on <strong>"
+"SELECT DATES</strong> screen."
+msgstr ""
+
+#: inc/meta-boxes.php:115
+msgid "Disable booking"
+msgstr ""
+
+#: inc/meta-boxes.php:118
+msgid "Check if you don't want users booking listings of this type"
+msgstr ""
+
+#: inc/meta-boxes.php:128
+msgid "Max available months for booking"
+msgstr ""
+
+#: inc/meta-boxes.php:132
+msgid "Number of months showing on <strong>SELECT DATES</strong> screen."
+msgstr ""
+
+#: inc/meta-boxes.php:142
+msgid "Allow free booking"
+msgstr ""
+
+#: inc/meta-boxes.php:145 inc/meta-boxes.php:164 azp_elements/cats.php:32 
+#: azp_elements/cats.php:85 azp_elements/listings.php:32 
+#: azp_elements/listings.php:105 azp_elements/locs.php:32 
+#: azp_elements/locs.php:81
+msgid "Yes"
+msgstr ""
+
+#: inc/meta-boxes.php:146 inc/meta-boxes.php:163 azp_elements/cats.php:33 
+#: azp_elements/cats.php:86 azp_elements/listings.php:33 
+#: azp_elements/listings.php:106 azp_elements/locs.php:33 
+#: azp_elements/locs.php:82
+msgid "No"
+msgstr ""
+
+#: inc/meta-boxes.php:149
+msgid ""
+"If <strong>No</strong>, <strong>Booking now</strong> button is disabled when "
+"subtotal is zero."
+msgstr ""
+
+#: inc/meta-boxes.php:160
+msgid "Hide Additional Services on free"
+msgstr ""
+
+#: inc/meta-boxes.php:168
+msgid ""
+"If <strong>Yes</strong>, <strong>Additional Services</strong> are hidden "
+"when subtotal is zero."
+msgstr ""
+
+#: inc/rest-booking.php:147
+#, php-format
+msgid "%1$s booking by %2$s"
+msgstr ""
+
+#: inc/rest-booking.php:366
+msgid "Can not insert booking post"
+msgstr ""
+
+#: inc/rest-booking.php:494
+msgid "The booking has already canceled."
+msgstr ""
+
+#: inc/rest-booking.php:505
+msgid "You don't have permission to cancel this booking"
+msgstr ""
+
+#: inc/rest-booking.php:509
+msgid "The post id is incorrect."
+msgstr ""
+
+#: inc/rest-site.php:81
+msgctxt "Apps text"
+msgid "Search"
+msgstr ""
+
+#: inc/rest-site.php:84
+msgctxt "Apps text"
+msgid "Explore"
+msgstr ""
+
+#: inc/rest-site.php:85
+msgctxt "Apps text"
+msgid "My Order"
+msgstr ""
+
+#: inc/rest-site.php:86
+msgctxt "Apps text"
+msgid "Favourite"
+msgstr ""
+
+#: inc/rest-site.php:87
+msgctxt "Apps text"
+msgid "Profile"
+msgstr ""
+
+#: inc/rest-site.php:90
+msgctxt "Apps text"
+msgid "per night"
+msgstr ""
+
+#: inc/rest-site.php:91
+msgctxt "Apps text"
+msgid "per day"
+msgstr ""
+
+#: inc/rest-site.php:92
+msgctxt "Apps text"
+msgid "per person"
+msgstr ""
+
+#: inc/rest-site.php:97
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "%s/NIGHT"
+msgstr ""
+
+#: inc/rest-site.php:99
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "%s per person."
+msgstr ""
+
+#: inc/rest-site.php:100
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid " %s slots available"
+msgstr ""
+
+#: inc/rest-site.php:102
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "%s slots available, grab one."
+msgstr ""
+
+#: inc/rest-site.php:104
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "%s per night"
+msgstr ""
+
+#: inc/rest-site.php:106
+msgctxt "Apps text - Per night price based"
+msgid "Free booking"
+msgstr ""
+
+#: inc/rest-site.php:108
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "Adults: %s"
+msgstr ""
+
+#: inc/rest-site.php:110
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "Children: %s"
+msgstr ""
+
+#: inc/rest-site.php:112
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "%s rooms available for booking."
+msgstr ""
+
+#: inc/rest-site.php:114
+msgctxt "Apps text - Per night price based"
+msgid "Checkin:"
+msgstr ""
+
+#: inc/rest-site.php:116
+msgctxt "Apps text - Per night price based"
+msgid "Checkout:"
+msgstr ""
+
+#: inc/rest-site.php:118
+#, php-format
+msgctxt "Apps text - Per night price based"
+msgid "x%s nights"
+msgstr ""
+
+#: inc/rest-site.php:120
+msgctxt "Apps text - Per night price based"
+msgid "Subtotal"
+msgstr ""
+
+#: inc/rest-site.php:121
+msgctxt "Apps text - Per night price based"
+msgid "Tax"
+msgstr ""
+
+#: inc/rest-site.php:122
+msgctxt "Apps text - Per night price based"
+msgid "Additional Fees"
+msgstr ""
+
+#: inc/rest-site.php:123
+msgctxt "Apps text - Per night price based"
+msgid "Total"
+msgstr ""
+
+#: inc/rest-site.php:125
+msgctxt "Apps text - Per night price based"
+msgid "Show dates"
+msgstr ""
+
+#: inc/rest-site.php:126
+msgctxt "Apps text - Per night price based"
+msgid "Continue"
+msgstr ""
+
+#: inc/rest-site.php:127
+msgctxt "Apps text - Per night price based"
+msgid "Book now"
+msgstr ""
+
+#: inc/rest-site.php:131
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "From %s/person"
+msgstr ""
+
+#: inc/rest-site.php:133
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "%s per person."
+msgstr ""
+
+#: inc/rest-site.php:134
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid " %s slots available"
+msgstr ""
+
+#: inc/rest-site.php:136
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "%s slots available, grab one."
+msgstr ""
+
+#: inc/rest-site.php:138
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "%s per person"
+msgstr ""
+
+#: inc/rest-site.php:140
+msgctxt "Apps text - Per person price based"
+msgid "Free booking"
+msgstr ""
+
+#: inc/rest-site.php:142
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "Adults: %s"
+msgstr ""
+
+#: inc/rest-site.php:144
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "Children: %s"
+msgstr ""
+
+#: inc/rest-site.php:146
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "%s rooms available for booking."
+msgstr ""
+
+#: inc/rest-site.php:148
+msgctxt "Apps text - Per person price based"
+msgid "Checkin:"
+msgstr ""
+
+#: inc/rest-site.php:150
+msgctxt "Apps text - Per person price based"
+msgid "Checkout:"
+msgstr ""
+
+#: inc/rest-site.php:152
+#, php-format
+msgctxt "Apps text - Per person price based"
+msgid "x%s nights"
+msgstr ""
+
+#: inc/rest-site.php:154
+msgctxt "Apps text - Per person price based"
+msgid "Subtotal"
+msgstr ""
+
+#: inc/rest-site.php:155
+msgctxt "Apps text - Per person price based"
+msgid "Tax"
+msgstr ""
+
+#: inc/rest-site.php:156
+msgctxt "Apps text - Per person price based"
+msgid "Additional Fees"
+msgstr ""
+
+#: inc/rest-site.php:157
+msgctxt "Apps text - Per person price based"
+msgid "Total"
+msgstr ""
+
+#: inc/rest-site.php:159
+msgctxt "Apps text - Per person price based"
+msgid "Check available"
+msgstr ""
+
+#: inc/rest-site.php:160
+msgctxt "Apps text - Per person price based"
+msgid "Continue"
+msgstr ""
+
+#: inc/rest-site.php:161
+msgctxt "Apps text - Per person price based"
+msgid "Book now"
+msgstr ""
+
+#: includes/class-options.php:43 includes/class-options.php:44
+msgid "TownHub Mobile Apps"
+msgstr ""
+
+#: includes/class-options.php:73
+msgid "Default title"
+msgstr ""
+
+#: includes/class-options.php:196
+msgid "TownHub Mobile Apps Settings"
+msgstr ""
+
+#: includes/class-options.php:218
+msgid "General"
+msgstr ""
+
+#: includes/class-options.php:227
+msgid "App Key"
+msgstr ""
+
+#: includes/class-options.php:228
+msgid "For REST API request authentication"
+msgstr ""
+
+#: includes/class-options.php:238
+msgid "Disable request authentication"
+msgstr ""
+
+#: includes/class-options.php:239
+msgid "Use for testing only."
+msgstr ""
+
+#: includes/class-options.php:245
+msgid "Explore Page"
+msgstr ""
+
+#: includes/class-options.php:246
+msgid "The page will be used for explore page on app"
+msgstr ""
+
+#: includes/class-options.php:256
+msgid "Terms and conditions page"
+msgstr ""
+
+#: includes/class-options.php:257
+msgid "The page will be used for Terms and conditions menu on profile screen"
+msgstr ""
+
+#: includes/class-options.php:265
+msgid "Privacy policy page"
+msgstr ""
+
+#: includes/class-options.php:266
+msgid "The page will be used for Privacy policy menu on profile screen"
+msgstr ""
+
+#: includes/class-options.php:273
+msgid "Help center page"
+msgstr ""
+
+#: includes/class-options.php:274
+msgid "The page will be used for Help center menu on profile screen"
+msgstr ""
+
+#: includes/class-options.php:281
+msgid "About us page"
+msgstr ""
+
+#: includes/class-options.php:282
+msgid "The page will be used for About us menu on profile screen"
+msgstr ""
+
+#: includes/class-options.php:293
+msgid "Enable WooCommerce Payment"
+msgstr ""
+
+#: includes/class-options.php:294
+msgid ""
+"Users will be redirect to website WooCommerce checkout page to complete "
+"payment."
+msgstr ""
+
+#: includes/core-functions.php:63
+msgctxt "Mobile Method"
+msgid "WooCommerce Checkout"
+msgstr ""
+
+#: includes/core-functions.php:66
+msgctxt "Mobile Method"
+msgid "You will redirect to WooCommerce cart to complete booking"
+msgstr ""
+
+#: includes/core-functions.php:68
+msgctxt "Mobile Method"
+msgid "Go to WooCommerce"
+msgstr ""
+
+#: azp_elements/banner.php:6
+msgid "Image Banner"
+msgstr ""
+
+#: azp_elements/banner.php:28
+msgid "Banner Image"
+msgstr ""
+
+#: azp_elements/banner.php:37
+msgid "Banner Width"
+msgstr ""
+
+#: azp_elements/banner.php:45
+msgid "Banner Height"
+msgstr ""
+
+#: azp_elements/banner.php:53
+msgid "Banner Link URL"
+msgstr ""
+
+#: azp_elements/cats.php:6
+msgid "Categories"
+msgstr ""
+
+#: azp_elements/cats.php:19 azp_elements/listings.php:19 
+#: azp_elements/listings.php:123 azp_elements/locs.php:19
+msgid "Title"
+msgstr ""
+
+#: azp_elements/cats.php:28 azp_elements/listings.php:28 
+#: azp_elements/locs.php:28
+msgid "Show View all?"
+msgstr ""
+
+#: azp_elements/cats.php:40 azp_elements/listings.php:40 
+#: azp_elements/locs.php:40
+msgid "View all text"
+msgstr ""
+
+#: azp_elements/cats.php:49 azp_elements/listings.php:49 
+#: azp_elements/locs.php:49
+msgid "Layout"
+msgstr ""
+
+#: azp_elements/cats.php:52
+msgid "Square"
+msgstr ""
+
+#: azp_elements/cats.php:53
+msgid "Circle"
+msgstr ""
+
+#: azp_elements/cats.php:54 azp_elements/listings.php:53 
+#: azp_elements/locs.php:52
+msgid "Carousel"
+msgstr ""
+
+#: azp_elements/cats.php:55 azp_elements/listings.php:55 
+#: azp_elements/locs.php:53
+msgid "Grid"
+msgstr ""
+
+#: azp_elements/cats.php:56
+msgctxt "Element Option"
+msgid "Square with image icon"
+msgstr ""
+
+#: azp_elements/cats.php:65
+msgid "Categories IDs"
+msgstr ""
+
+#: azp_elements/cats.php:66
+msgid ""
+"Enter Categories ids to include, separated by a comma (,). Leave empty to "
+"show all."
+msgstr ""
+
+#: azp_elements/cats.php:72
+msgid "Or Categories IDs to Exclude"
+msgstr ""
+
+#: azp_elements/cats.php:73
+msgid "Enter Categories ids to include, separated by a comma (,)."
+msgstr ""
+
+#: azp_elements/cats.php:81 azp_elements/locs.php:77
+msgid "Hide Empty"
+msgstr ""
+
+#: azp_elements/cats.php:82 azp_elements/locs.php:78
+msgid "Hide categories  has no listings assigned to."
+msgstr ""
+
+#: azp_elements/cats.php:95 azp_elements/listings.php:116 
+#: azp_elements/locs.php:91
+msgid "Order by"
+msgstr ""
+
+#: azp_elements/cats.php:99 azp_elements/locs.php:95
+msgid "Name"
+msgstr ""
+
+#: azp_elements/cats.php:100 azp_elements/locs.php:96
+msgid "Slug"
+msgstr ""
+
+#: azp_elements/cats.php:101 azp_elements/locs.php:97
+msgid "Term Group"
+msgstr ""
+
+#: azp_elements/cats.php:102 azp_elements/locs.php:98
+msgid "Term ID"
+msgstr ""
+
+#: azp_elements/cats.php:103 azp_elements/locs.php:99
+msgid "Description"
+msgstr ""
+
+#: azp_elements/cats.php:104 azp_elements/locs.php:100
+msgid "Parent"
+msgstr ""
+
+#: azp_elements/cats.php:105 azp_elements/locs.php:101
+msgid "Term Count"
+msgstr ""
+
+#: azp_elements/cats.php:106 azp_elements/locs.php:102
+msgid "For Include above"
+msgstr ""
+
+#: azp_elements/cats.php:113 azp_elements/listings.php:136 
+#: azp_elements/locs.php:109
+msgid "Sort Order"
+msgstr ""
+
+#: azp_elements/cats.php:116 azp_elements/listings.php:139 
+#: azp_elements/locs.php:112
+msgid "Ascending"
+msgstr ""
+
+#: azp_elements/cats.php:117 azp_elements/listings.php:140 
+#: azp_elements/locs.php:113
+msgid "Descending"
+msgstr ""
+
+#: azp_elements/cats.php:124 azp_elements/locs.php:120
+msgid "Numbers show"
+msgstr ""
+
+#: azp_elements/cats.php:125 azp_elements/locs.php:121
+msgid "Number of Categories to show (0 for all)."
+msgstr ""
+
+#: azp_elements/listings.php:6
+msgid "Listings"
+msgstr ""
+
+#: azp_elements/listings.php:52
+msgid "Slider"
+msgstr ""
+
+#: azp_elements/listings.php:54
+msgid "List"
+msgstr ""
+
+#: azp_elements/listings.php:64
+msgid "Listing Categories"
+msgstr ""
+
+#: azp_elements/listings.php:65
+msgid ""
+"Enter listing category's ids to get listings from, separated by a comma (,)."
+msgstr ""
+
+#: azp_elements/listings.php:71
+msgid "Listing Locations"
+msgstr ""
+
+#: azp_elements/listings.php:72
+msgid ""
+"Enter listing location's ids to get listings from, separated by a comma (,)."
+msgstr ""
+
+#: azp_elements/listings.php:78
+msgid "Listing Tags"
+msgstr ""
+
+#: azp_elements/listings.php:79
+msgid "Enter listing tag's ids to get listings from, separated by a comma (,)."
+msgstr ""
+
+#: azp_elements/listings.php:85
+msgid "Enter Listing IDs"
+msgstr ""
+
+#: azp_elements/listings.php:86
+msgid ""
+"Enter Post ids to show, separated by a comma (,). Leave empty to show all."
+msgstr ""
+
+#: azp_elements/listings.php:92
+msgid "Or Post IDs to Exclude"
+msgstr ""
+
+#: azp_elements/listings.php:93
+msgid ""
+"Enter post ids to exclude, separated by a comma (,). Use if the field above "
+"is empty."
+msgstr ""
+
+#: azp_elements/listings.php:101
+msgid "Show featured listings only?"
+msgstr ""
+
+#: azp_elements/listings.php:120
+msgid "Date"
+msgstr ""
+
+#: azp_elements/listings.php:121
+msgid "ID"
+msgstr ""
+
+#: azp_elements/listings.php:122
+msgid "Author"
+msgstr ""
+
+#: azp_elements/listings.php:124
+msgid "Modified"
+msgstr ""
+
+#: azp_elements/listings.php:125
+msgid "Random"
+msgstr ""
+
+#: azp_elements/listings.php:126
+msgid "Comment Count"
+msgstr ""
+
+#: azp_elements/listings.php:127
+msgid "Menu Order"
+msgstr ""
+
+#: azp_elements/listings.php:128
+msgid "ID order given (post__in)"
+msgstr ""
+
+#: azp_elements/listings.php:129
+msgid "Listing Featured"
+msgstr ""
+
+#: azp_elements/listings.php:147
+msgid "Posts to show"
+msgstr ""
+
+#: azp_elements/listings.php:148
+msgid "Number of posts to show (-1 for all)."
+msgstr ""
+
+#: azp_elements/locs.php:6
+msgid "Locations"
+msgstr ""
+
+#: azp_elements/locs.php:61
+msgid "Locations IDs"
+msgstr ""
+
+#: azp_elements/locs.php:62
+msgid ""
+"Enter Locations ids to include, separated by a comma (,). Leave empty to "
+"show all."
+msgstr ""
+
+#: azp_elements/locs.php:68
+msgid "Or Locations IDs to Exclude"
+msgstr ""
+
+#: azp_elements/locs.php:69
+msgid "Enter Locations ids to include, separated by a comma (,)."
+msgstr ""
+
+#. Name of the plugin
+msgid "TownHub Mobile App"
+msgstr ""
+
+#. Description of the plugin
+msgid "A custom plugin for TownHub - Directory & Listing WordPress Theme"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://townhub.cththemes.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "CTHthemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/cththemes"
+msgstr ""

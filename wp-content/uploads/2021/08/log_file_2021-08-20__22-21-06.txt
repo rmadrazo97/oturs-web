@@ -1,0 +1,172 @@
+
+---Downloaded files---
+The import files for: TownHub theme - Full Demo Content (widgets included) were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = http://oturstravel.com
+Data file = /home/oturthwm/public_html/wp-content/themes/townhub/inc/demo_data_files/all-content.xml
+Widget file = /home/oturthwm/public_html/wp-content/themes/townhub/inc/demo_data_files/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Dashboard Feed : 
+
+TownHub Banner - No Title - Imported
+
+Blog Sidebar : 
+
+Search - Search - Imported
+Gallery - Our Instagram - Imported
+TownHub Recent Posts - Popular Posts - Imported
+TownHub Banner - No Title - Imported
+Tag Cloud - Tags - Imported
+Categories - Categories - Imported
+TownHub Author - About Athor - Imported
+TownHub Twitter Feed - Twitter Feeds - Imported
+TownHub Instagram - Our Instagram - Imported
+
+Page Sidebar : 
+
+Custom HTML - About Us - Imported
+
+Shop Sidebar : 
+
+Product Search - Search Products - Imported
+Cart - Cart - Imported
+Product Categories - Product categories - Imported
+Products list - Products - Imported
+Product Tag Cloud - Product tags - Imported
+Filter Products by Price - Filter by price - Imported
+
+Languages Switcher : 
+
+Custom HTML - No Title - Imported
+
+Subscribe Text : 
+
+Custom HTML - No Title - Imported
+
+Subscribe Form : 
+
+Custom HTML - No Title - Imported
+
+About Us : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Our Last News : 
+
+TownHub Recent Posts - Our Last News - Imported
+
+Our Tweets : 
+
+TownHub Twitter Feed - Our Twitter - Imported
+
+Footer Menu : 
+
+Navigation Menu - Footer Menu - Imported
+Custom HTML - Languages - Imported
+
+
+
+---ocdi/after_import---
+

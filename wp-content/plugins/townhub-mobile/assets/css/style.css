@@ -1,0 +1,6 @@
+#cthMobileApp .azp-builder-wrapper > button[type="submit"]{
+	display: none;
+}
+#page_apps .hndle.ui-sortable-handle, #page_apps button.handlediv{
+	display: none;
+}
